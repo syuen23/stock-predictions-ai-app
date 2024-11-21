@@ -1,0 +1,15 @@
+{
+  "name": "Scrim-s068v1r",
+  "description": "https://scrimba.com/the-ai-engineer-path-c02v/~0s",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.73.0",
+    "vite": "latest"
+  }
+}
